@@ -1,7 +1,6 @@
 from http import client
 import grpc
 import logging
-# import proto.spire.api.server.trustdomain.v1.trustdomain_pb2
 from spire.api.server.trustdomain.v1 import trustdomain_pb2_grpc
 from spire.api.server.trustdomain.v1 import trustdomain_pb2
 
